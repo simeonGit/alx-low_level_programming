@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main -print using functon print
+/**
+ * main - print using functon printf
  *
  * Return:0
 */
