@@ -12,7 +12,6 @@ int main(void)
 	long long int d;
 	float e;
 
-	/* Sizeof operator is used to evaluate the size of variable*/
 	printf("Size of char: %ld bytes\n", (unsigned long)sizeof(a));
 	printf("Size of int: %ld bytes\n", (unsigned long)sizeof(b));
 	printf("Size of long int: %ld bytes\n", (unsigned long)sizeof(c));
