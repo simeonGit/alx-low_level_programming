@@ -8,7 +8,7 @@
  * @accept: matches one of the bytes, or @NULL if no such byte
  *
  * Return: a pointer to the byte
- *  */
+ */
 char *_strpbrk(char *s, char *accept)
 {
 	int i;
